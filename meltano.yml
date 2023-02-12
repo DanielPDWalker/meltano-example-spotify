@@ -1,0 +1,23 @@
+version: 1
+default_environment: dev
+project_id: 4247dc3f-d1a9-4f91-8171-e9f70e2c924a
+environments:
+- name: dev
+- name: staging
+- name: prod
+plugins:
+  extractors:
+  - name: tap-spreadsheets-anywhere
+    variant: ets
+    pip_url: git+https://github.com/ets/tap-spreadsheets-anywhere.git
+  - name: tap-spotify
+    variant: matatika
+    pip_url: git+https://github.com/Matatika/tap-spotify.git
+  loaders:
+  - name: target-jsonl
+    variant: andyh1203
+    pip_url: target-jsonl
+  utilities:
+  - name: evidence
+    variant: meltanolabs
+    pip_url: evidence-ext>=0.5

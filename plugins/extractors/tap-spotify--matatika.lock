@@ -1,0 +1,46 @@
+{
+  "plugin_type": "extractors",
+  "name": "tap-spotify",
+  "namespace": "tap_spotify",
+  "variant": "matatika",
+  "label": "Spotify",
+  "docs": "https://hub.meltano.com/extractors/tap-spotify--matatika",
+  "repo": "https://github.com/Matatika/tap-spotify",
+  "pip_url": "git+https://github.com/Matatika/tap-spotify.git",
+  "description": "Audio Streaming and Media Services",
+  "logo_url": "https://hub.meltano.com/assets/logos/extractors/spotify.png",
+  "capabilities": [
+    "catalog",
+    "discover",
+    "state",
+    "about",
+    "stream-maps"
+  ],
+  "settings_group_validation": [
+    [
+      "client_id",
+      "client_secret",
+      "refresh_token"
+    ]
+  ],
+  "settings": [
+    {
+      "name": "client_id",
+      "kind": "password",
+      "label": "Client ID",
+      "description": "App client ID"
+    },
+    {
+      "name": "client_secret",
+      "kind": "password",
+      "label": "Client secret",
+      "description": "App client secret"
+    },
+    {
+      "name": "refresh_token",
+      "kind": "password",
+      "label": "Refresh token",
+      "description": "Refresh token"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+"rank","track_id","track_name","artist_name","type","album_name","popularity","duration_ms","explicit","track_number","release_date","album_release_date_precision"
+1,"0yLdNVWF3Srea0uzk55zFn",Flowers,Miley Cyrus,single,Flowers,100,200454,false,1,2023-01-13,day
+2,"1Qrg8KqiBpW07V7PNxwwwL",Kill Bill,SZA,album,SOS,91,153946,false,2,2022-12-08,day
+3,"4nrPB8O7Y7wsOCJdgXkthe","Shakira: Bzrp Music Sessions, Vol. 53","Bizarrap, Shakira",single,"Shakira: Bzrp Music Sessions, Vol. 53",96,214945,false,1,2023-01-11,day
+4,"0NZPBYD5qbEWRs3PrGiRkT",Unholy (feat. Kim Petras),"Sam Smith, Kim Petras",album,Gloria,81,156943,false,6,2023-01-27,day
+5,"2dHHgzDwk4BJdRwy9uXhTO",Creepin' (with The Weeknd & 21 Savage),"Metro Boomin, The Weeknd, 21 Savage",album,HEROES & VILLAINS,93,221520,true,10,2022-12-02,day
+6,"4Dvkj6JhhA12EX05fT7y2e",As It Was,Harry Styles,album,Harry's House,88,167303,false,4,2022-05-20,day
+7,"5ww2BF9slyYgNOk37BlC4u",La Bachata,Manuel Turizo,single,La Bachata,92,162637,false,1,2022-05-26,day
+8,"4FAKtPVycI4DxoOHC01YqD",Yandel 150,"Yandel, Feid",album,Resistencia,81,216148,true,4,2023-01-13,day
+9,"4uUG5RXrOk84mYEfFvj3cK",I'm Good (Blue),"David Guetta, Bebe Rexha",single,I'm Good (Blue),93,175238,true,1,2022-08-26,day
+10,"5mHdCZtVyb4DcJw8799hZp",Escapism.,"RAYE, 070 Shake",album,My 21st Century Blues,67,272373,true,5,2023-02-03,day
+11,"0WtM2NBVQNNJLh6scP13H8",Calm Down (with Selena Gomez),"Rema, Selena Gomez",single,Calm Down (with Selena Gomez),91,239317,false,1,2022-08-25,day
+12,"0V3wPSX9ygBnCm8psDIegu",Anti-Hero,Taylor Swift,album,Midnights,91,200690,false,3,2022-10-21,day
+13,"2LBqCSwhJGcFQeTHMVGwy3",Die For You,The Weeknd,album,Starboy,86,260253,false,17,2016-11-24,day
+14,"2mnXxnrX5vCGolNkaFvVeM",La Jumpa,"Arcángel, Bad Bunny",album,Sr. Santos,85,255693,true,3,2022-12-01,day
+15,"78Sw5GDo6AlGwTwanjXbGh",Here With Me,d4vd,single,Here With Me,91,242484,false,1,2022-09-22,day
+16,"65FftemJ1DbbZ45DUfHJXE",OMG,NewJeans,single,NewJeans 'OMG',89,212253,false,1,2023-01-02,day
+17,"1zsPaEkglFvxjAhrM8yhpr",Hey Mor,"Ozuna, Feid",album,OzuTochi,88,196600,false,9,2022-10-07,day
+18,"0JXXNGljqupsJaZsgSbMZV",Sure Thing,Miguel,album,All I Want Is You,90,195373,false,1,2010-11-26,day
+19,"3r8RuvgbX9s7ammBn07D3W",Ditto,NewJeans,single,Ditto,89,185506,false,1,2022-12-19,day
+20,"2tTmW7RDtMQtBk7m2rYeSw","Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap, Quevedo",single,"Quevedo: Bzrp Music Sessions, Vol. 52",91,198937,false,1,2022-07-06,day
+21,"5odlY52u43F5BjByhxg7wg",golden hour,JVKE,album,this is what ____ feels like (Vol. 1-4),87,209259,false,3,2022-09-23,day
+22,"4h9wh7iOZ0GGn8QVp4RAOB",I Ain't Worried,OneRepublic,single,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",90,148485,false,1,2022-05-13,day
+23,"7jtQIBanIiJOMS6RyCx6jZ",Another Love,Tom Odell,album,Long Way Down,61,244360,true,3,2013-06-17,day
+24,"2mpoNBkngUEwnaKoBhZ0vl",PRC,"Peso Pluma, Natanael Cano",single,PRC,84,184066,true,1,2023-01-23,day
+25,"4sx6NRwL6Ol3V6m9exwGlQ",Love Again,The Kid LAROI,single,Love Again,85,146640,false,1,2023-01-27,day
+26,"5XeFesFbtLpXzIVDNQP22n",I Wanna Be Yours,Arctic Monkeys,album,AM,89,183956,false,12,2013-09-09,day
+27,"1bDbXMyjaUIooNwFE9wn0N",Rich Flex,"Drake, 21 Savage",album,Her Loss,90,239359,true,1,2022-11-04,day
+28,"1lRtH4FszTrwwlK5gTSbXO",AMG,"Natanael Cano, Peso Pluma, Gabito Ballesteros",single,AMG,87,174942,true,1,2022-11-24,day
+29,"0QHEIqNKsMoOY5urbzN48u",Made You Look,Meghan Trainor,album,Takin' It Back,89,134256,false,2,2022-10-21,day
+30,"6Sq7ltF9Qa7SNFBsV5Cogx",Me Porto Bonito,"Bad Bunny, Chencho Corleone",album,Un Verano Sin Ti,89,178567,true,3,2022-05-06,day
+31,"1Y3LN4zO1Edc2EluIoSPJN",Until I Found You (with Em Beihold) - Em Beihold Version,"Stephen Sanchez, Em Beihold",single,Until I Found You (Em Beihold Version),89,176440,false,1,2022-04-22,day
+32,"0IKeDy5bT9G0bA7ZixRT4A",Bebe Dame,"Fuerza Regida, Grupo Frontera",album,Sigan Hablando,78,271861,false,10,2022-12-28,day
+33,"1xzi1Jcr7mEi9K2RfzLOqS",CUFF IT,Beyoncé,album,RENAISSANCE,88,225388,true,4,2022-07-29,day
+34,"561jH07mF1jHuk7KlaeF0s",Mockingbird,Eminem,album,Encore (Deluxe Version),89,250760,true,16,2004-11-12,day
+35,"3Zyk5Vd9WNPNVWxvb0EZTk",X SI VOLVEMOS,"KAROL G, Romeo Santos",single,X SI VOLVEMOS,81,203360,true,1,2023-02-03,day
+36,"2CeKVsFFXG4QzA415QygGb",Feliz Cumpleaños Ferxxo,Feid,album,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM,84,155960,false,3,2022-09-14,day
+37,"59uQI0PADDKeE6UZDTJEe8",Last Night,Morgan Wallen,single,"3 Songs At A Time Sampler",81,163854,true,1,2023-01-31,day
+38,"1jHgfC8T5KxUyC5Ldw6lk9",Zona De Perigo,Leo Santana,single,Zona De Perigo,79,142151,false,1,2022-12-08,day
+39,"4iZ4pt7kvcaH6Yo8UoZ4s2",Snooze,SZA,album,SOS,87,201800,true,8,2022-12-09,day
+40,"54ipXppHLA8U4yqpOFTUhr",Bones,Imagine Dragons,album,Mercury - Acts 1 & 2,82,165264,false,1,2022-07-01,day
+41,"7MXVkk9YMctZqd1Srtv4MB",Starboy,"The Weeknd, Daft Punk",album,Starboy,88,230453,true,1,2016-11-25,day
+42,"4FyesJzVpA39hbYvcseO2d",Just Wanna Rock,Lil Uzi Vert,single,Just Wanna Rock,88,123890,true,1,2022-10-17,day
+43,"1xK59OXxi2TAAAbmZK0kBL",Romantic Homicide,d4vd,single,Romantic Homicide,89,132630,false,1,2022-07-20,day
+44,"4k6Uh1HXdhtusDW5y8Gbvy",Bad Habit,Steve Lacy,album,Gemini Rights,82,232066,true,5,2022-07-15,day
+45,"0vjeOZ3Ft5jvAi9SBFJm1j",Superhero (Heroes & Villains) [with Future & Chris Brown],"Metro Boomin, Future, Chris Brown",album,HEROES & VILLAINS,88,182666,true,2,2022-12-02,day
+46,"73vIOb4Q7YN6HeJTbscRx5",Miss You,"Oliver Tree, Robin Schulz",single,Miss You,89,206000,true,1,2022-08-05,day
+47,"1IHWl5LamUGEuP4ozKQSXZ",Tití Me Preguntó,Bad Bunny,album,Un Verano Sin Ti,89,243716,false,4,2022-05-06,day
+48,"5IgjP7X4th6nMNDh4akUHb",Under The Influence,Chris Brown,album,Indigo (Extended),88,184613,true,3,2019-10-04,day
+49,"4WiQA1AGWHFvaxBU6bHghs",PUNTO G,Quevedo,album,DONDE QUIERO ESTAR,79,151324,false,10,2023-01-20,day
+50,"2SiAcexM2p1yX6joESbehd",LLYLM,ROSALÍA,single,LLYLM,83,174044,false,1,2023-01-27,day
